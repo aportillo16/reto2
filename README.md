@@ -8,6 +8,8 @@ Las credenciales serán validadas en una clase llamada local_api, en donde se le
 
 El activity del login cuenta con su respectiva animación de tipo splash screen.
 
+El activity de inicio cuenta con la funcionalidad para que al momento de darle al botón Regresar, no regrese al activity de login, sino salga de la aplicación inmediatamente.
+
 LOGIN:
 
 ![image](https://github.com/aportillo16/reto2/assets/166572036/b8c39476-01a6-4fe8-b784-59ec82e50aa8)
